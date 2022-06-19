@@ -6,12 +6,12 @@
 
 ### 배경
 - 부동산 관심도 증가
-- 부족한 주변 인프라 정보
+- 부족한 주변 인프라 정보  
 &rarr; 접근성-직관적 인터페이스 / 다양한 주변 인프라 정보 제공 서비스 제안
 
 ![시장 분석](https://user-images.githubusercontent.com/68692871/174487771-0be3d294-8684-4a8a-941a-c8d38fd4c9b4.png)
 
-### HappyHouse - 페이지 소개
+## HappyHouse - 페이지 소개
 #### 메인 화면
 ![메인 화면](https://user-images.githubusercontent.com/68692871/174487770-a546f090-b6ce-41ec-b8b9-666ac0c2949f.png)
 
