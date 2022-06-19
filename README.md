@@ -1,17 +1,18 @@
 # HappyHouse
 ###### 아파트 실거래 정보 및 주변 인프라 정보 제공 사이트
 
-### 개발 환경 및 전체 시스템 구조도
-![개발 환경 및 전체 시스템 구조도](https://user-images.githubusercontent.com/68692871/174487738-e6ed42d1-6cf3-4266-bd21-bf1b9f73f14a.png)
-
 ### 배경
 - 부동산 관심도 증가
 - 부족한 주변 인프라 정보  
 
 
 #### &rarr; 접근성-직관적 인터페이스 / 다양한 주변 인프라 정보 제공 서비스 제안
-
 ![시장 분석](https://user-images.githubusercontent.com/68692871/174487771-0be3d294-8684-4a8a-941a-c8d38fd4c9b4.png)
+
+### 개발 환경 및 전체 시스템 구조도
+![개발 환경 및 전체 시스템 구조도](https://user-images.githubusercontent.com/68692871/174487738-e6ed42d1-6cf3-4266-bd21-bf1b9f73f14a.png)
+
+
 
 ## HappyHouse - 페이지 소개
 ### 메인 화면
