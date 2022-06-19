@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.vue.mapper.NewsMapper">
+    <select id="getInterest" resultType="String">
+        select dongname from interest where userid like #{userid}
+    </select>
+
+    <insert id="addInterest">
+        insert into interest values (#{userid}, #{dongname});
+    </insert>
+
+    <delete id="removeInterest">
+        delete from interest where userid like #{userid} and dongname like #{dongname}
+    </delete>
+
+    <select id="checkInterest" resultType="int">
+        select count(*) from interest where userid like #{userid} and dongname like #{dongname}
+    </select>
+</mapper>
